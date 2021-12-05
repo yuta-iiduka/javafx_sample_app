@@ -41,5 +41,4 @@ public class SampleController {
         lbl.setText("Hello JavaFx");
 
     }
-    
 }
